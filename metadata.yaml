@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24964'
     url: http://www.gutenberg.org/2009/agents/24964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21916#Villkor-och-m-jligheter-f-r-kemisk-storindustri-i-Sverige
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2007-06-24'
 gutenberg_type: Text
